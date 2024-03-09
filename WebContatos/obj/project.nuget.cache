@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "z85acMEsH7meRssKFyjfpwJy0AhxNMuTRKG16SE+TP/zdsz9H2w8fe8xEvh/F745ghOV3+i89v6z+1IrWwgR0A==",
+  "dgSpecHash": "TiCxxmp/QpH6jT8z0drzFxz4oS3TQNaIlMiOUwi1AxOuBMvIE/WPKfkYdkLpH1da3oFunuThz8JAVXUEaViVQw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Administrador\\source\\repos\\WebContatos\\WebContatos\\WebContatos.csproj",
+  "projectFilePath": "C:\\Users\\Administrador\\Documents\\GitHub\\WebContatos\\WebContatos\\WebContatos.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Administrador\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\Administrador\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",
