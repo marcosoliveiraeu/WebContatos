@@ -13,6 +13,7 @@ builder.Services.AddDbContext<BancoContext>(options =>
         options.UseSqlServer(builder.Configuration.GetConnectionString("Database")));
 
 builder.Services.AddScoped<IContatoRepositorio, ContatoRepositorio>();
+builder.Services.AddScoped<IUsuarioRepositorio, UsuarioRepositorio>();
 
 
 var app = builder.Build();
