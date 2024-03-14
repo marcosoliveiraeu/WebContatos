@@ -70,5 +70,14 @@ namespace WebContatos.Repositorio
 
             return true;
         }
+
+        public UsuarioModel BuscarPorlogin(string login)        {
+            
+
+            return _bancoContext.Usuarios.FirstOrDefault(x => x.Login.ToUpper() == login.ToUpper()); 
+
+
+        }
+
     }
 }

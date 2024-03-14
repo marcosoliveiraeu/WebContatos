@@ -301,3 +301,4 @@ C:\Users\Administrador\Documents\GitHub\WebContatos\WebContatos\obj\Debug\net8.0
 C:\Users\Administrador\Documents\GitHub\WebContatos\WebContatos\obj\Debug\net8.0\WebContatos.pdb
 C:\Users\Administrador\Documents\GitHub\WebContatos\WebContatos\obj\Debug\net8.0\WebContatos.genruntimeconfig.cache
 C:\Users\Administrador\Documents\GitHub\WebContatos\WebContatos\obj\Debug\net8.0\ref\WebContatos.dll
+C:\Users\Administrador\Documents\GitHub\WebContatos\WebContatos\obj\Debug\net8.0\scopedcss\Views\Shared\_LayoutDeslogado.cshtml.rz.scp.css

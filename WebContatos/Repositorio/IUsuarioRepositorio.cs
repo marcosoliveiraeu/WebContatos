@@ -17,6 +17,10 @@ namespace WebContatos.Repositorio
 
         List<UsuarioModel> BuscarTodos();
 
+        
+        UsuarioModel BuscarPorlogin(string login);
+        
+      
 
     }
 }
